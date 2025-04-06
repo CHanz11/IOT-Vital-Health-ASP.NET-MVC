@@ -1,0 +1,44 @@
+﻿@model IOT_Integration_For_Vital_Signs_Monitoring_System.Models.Patients;
+
+<h2>Enter Patients Details</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data"> <!-- Enable file upload -->
+
+    <label>Name:</label>
+    <input type="text" asp-for="Name" required />
+    <span asp-validation-for="Name" style="color: red;"></span>
+    <br />
+
+    <label>Last Name:</label>
+    <input type="text" asp-for="LastName" required />
+    <span asp-validation-for="LastName" style="color: red;"></span>
+    <br />
+
+    <!-- Gender Select -->
+    <div class="form-group">
+        <label asp-for="Gender">Gender:</label>
+        <select id="genderSelect" name="Gender" class="form-control">
+            <option value="">-- Select Gender --</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other (Please Specify)</option>
+        </select>
+        <span asp-validation-for="Gender" class="text-danger"></span>
+    </div>
+
+    <label asp-for="Birthdate" class="control-label"></label>
+    <input asp-for="Birthdate" class="form-control" type="date" />
+    <span asp-validation-for="Birthdate" class="text-danger"></span>
+
+    <label>Address:</label>
+    <input type="text" asp-for="Address" required />
+    <span asp-validation-for="Address" style="color: red;"></span>
+    <br />
+
+    <!-- Profile Image -->
+    <label>Profile Image:</label>
+    <input type="file" name="ProfileImage" accept="image/*" />
+    <br />
+
+    <button type="submit" class="btn edit">Submit</button>
+</form>

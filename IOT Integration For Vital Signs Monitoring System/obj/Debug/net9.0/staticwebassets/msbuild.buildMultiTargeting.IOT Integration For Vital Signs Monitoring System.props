@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IOT Integration For Vital Signs Monitoring System.props" />
+</Project>

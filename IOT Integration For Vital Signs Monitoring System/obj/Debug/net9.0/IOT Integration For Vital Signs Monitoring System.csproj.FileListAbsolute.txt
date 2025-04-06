@@ -1,0 +1,236 @@
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\appsettings.Development.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\appsettings.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.staticwebassets.runtime.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.staticwebassets.endpoints.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.exe
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.deps.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.runtimeconfig.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.pdb
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Azure.Core.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Azure.Identity.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Humanizer.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.ClientModel.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.CodeDom.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Memory.Data.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Text.Json.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.csproj.AssemblyReference.cache
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.AssemblyInfoInputs.cache
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.AssemblyInfo.cs
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.csproj.CoreCompileInputs.cache
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.MvcApplicationPartsAssemblyInfo.cache
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.RazorAssemblyInfo.cache
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.RazorAssemblyInfo.cs
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.sourcelink.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\scopedcss\bundle\IOT Integration For Vital Signs Monitoring System.styles.css
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\scopedcss\projectbundle\IOT Integration For Vital Signs Monitoring System.bundle.scp.css
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\gp00yt0opr-b9sayid5wm.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\cn22gdyfa4-61n19gt1b8.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\vledquho8q-xtxxf3hu2r.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\d6ud1sy8ak-bqjiyaj88i.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\5nm2leyc96-c2jlpeoesf.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\uoqzcjtsoq-erw9l3u2r3.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\dbmrldpqg0-aexeepp0ev.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\g8qixuqaeg-d7shbmvgxk.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\usn1exz6j3-ausgxo2sd3.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\bta0oc8w3a-k8d9w2qqmf.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\78gd35jqc5-cosvhxvwiu.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\brcbrlq8ab-ub07r2b239.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\zaieq0ckpx-fvhpjtyr6v.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\ll9olkjlqb-b7pk76d08c.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\degim6uyz2-fsbi9cje9m.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\voffnv1ffg-rzd6atqjts.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\ggbe1ojc3e-ee0r1s7dh0.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\byay8c3zbq-dxx9fxp4il.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\qenj5pvwaq-jd9uben2k1.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\awzpvh3rdp-khv3u5hwcm.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\dfejcbn3k4-r4e9w2rdcm.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\e9jzw2tuce-lcd1t2u6c8.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\8zko6z64gc-c2oey78nd0.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\p0zeic6n2g-tdbxkamptv.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\8u70abvmuk-j5mq2jizvt.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\r8145x27ps-06098lyss8.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\0ayobt8umw-nvvlpmu67g.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\5d74zmqogy-s35ty4nyc5.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\da5wamqvj7-pj5nd1wqec.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\nkldfmyzyw-46ein0sx1k.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\dqnecy25dd-v0zj4ognzu.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\ug02151a8b-37tfw0ft22.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\uxiw76qrj2-hrwsygsryq.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\tl19wkappk-pk9g2wxc8p.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\vcojsfff8r-ft3s53vfgj.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\j6hksx5e7p-6cfz1n2cew.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\mbvedfjy45-6pdc2jztkx.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\2zqisywidz-493y06b0oq.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\26sggm3eae-iovd86k7lj.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\0i4cxa737g-vr1egmr9el.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\0x0ekq6fi6-kbrnm935zg.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\33akllxbcb-jj8uyg4cgr.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\h5al5fag9a-y7v9cxd14o.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\o1evnr5d63-notf2xhcfb.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\dckjo0w844-h1s4sie4z3.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\4hn7678o1o-63fj8s7r0e.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\ugpyivc3vr-0j3bgjxly4.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\qrvazwnuox-47otxtyo56.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\4cuoor4s5d-4v8eqarkd7.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\9r4lt1lq4l-356vix0kms.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\y1uwox1t4y-83jwlth58m.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\9oikxd3zao-mrlpezrjn3.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\pmav2sxs8l-lzl9nlhx6b.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\l0rl3zv127-ag7o75518u.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\dtm9q9dfqj-x0q3zqp4vz.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\bd09gy1klf-0i3buxo5is.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\a2rcmc4qqu-o1o13a6vjx.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\c201l2uw0w-ttgo8qnofa.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\nq6w3xzu05-2z0ns9nrw6.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\1d8lkrfano-muycvpuwrr.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\69ykr94zj5-87fc7y1x7t.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\xmcw6rmqb0-mlv21k5csn.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\wgj7b45ra4-bdksc1m3ew.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\compressed\nsx7misw2s-bdksc1m3ew.gz
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets.build.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets.development.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets\msbuild.IOT Integration For Vital Signs Monitoring System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets\msbuild.IOT Integration For Vital Signs Monitoring System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets\msbuild.build.IOT Integration For Vital Signs Monitoring System.props
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IOT Integration For Vital Signs Monitoring System.props
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IOT Integration For Vital Signs Monitoring System.props
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets.pack.json
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Inte.7CD983B9.Up2Date
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\refint\IOT Integration For Vital Signs Monitoring System.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.pdb
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.genruntimeconfig.cache
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\ref\IOT Integration For Vital Signs Monitoring System.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\X.PagedList.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\CODES\ASP.NET\IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System\obj\Debug\net9.0\IOT Integration For Vital Signs Monitoring System.MvcApplicationPartsAssemblyInfo.cs
