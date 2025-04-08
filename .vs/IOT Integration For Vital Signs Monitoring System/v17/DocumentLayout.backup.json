@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\adddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\home\\adddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,8 +23,48 @@
       "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\adddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\home\\adddata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,28 +75,24 @@
       "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\services\\calculatebmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\services\\calculatebmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\migrations\\20250406203735_updateddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\migrations\\20250406203735_updateddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|c:\\codes\\asp.net\\iot integration for vital signs monitoring system\\iot integration for vital signs monitoring system\\migrations\\20250406200822_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BD711-C507-4471-8C53-3CF11302AE92}|IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System.csproj|solutionrelative:iot integration for vital signs monitoring system\\migrations\\20250406200822_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,50 +102,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T09:40:24.908Z",
+              "WhenOpened": "2025-04-08T23:24:49.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAGQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T09:17:26.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddData.cshtml",
-              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
-              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
-              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
-              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvyIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T08:55:50.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Patients.cs",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Models\\Patients.cs",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Models\\Patients.cs",
@@ -113,12 +127,11 @@
               "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Models\\Patients.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAiwC0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:51:41.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T20:51:41.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Create.cshtml",
@@ -126,51 +139,222 @@
               "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Create.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T01:20:07.69Z",
+              "WhenOpened": "2025-04-05T01:20:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:45:48.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAgwLkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-06T21:12:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T09:40:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Delete.cshtml",
               "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Delete.cshtml",
               "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-05T02:45:08.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Edit.cshtml",
               "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-06T03:44:48.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AddData.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\AddData.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T08:55:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAKMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:05:16.79Z",
+              "WhenOpened": "2025-04-05T09:17:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T20:56:48.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T21:30:33.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T21:21:33.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T20:11:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250406203735_UpdatedDB.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406203735_UpdatedDB.cs",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406203735_UpdatedDB.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406203735_UpdatedDB.cs",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406203735_UpdatedDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:37:36.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-06T20:50:36.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:05:16.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Program.cs",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Program.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Program.cs",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:46:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250406200822_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406200822_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406200822_AddIdentityTables.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406200822_AddIdentityTables.cs",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Migrations\\20250406200822_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:08:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T20:22:13.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Records.cs",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Models\\Records.cs",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Models\\Records.cs",
@@ -182,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "CalculateBMI.cs",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Services\\CalculateBMI.cs",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Services\\CalculateBMI.cs",
@@ -194,31 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Program.cs",
-              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Program.cs",
-              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Program.cs",
-              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:46:17.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "IOT Integration For Vital Signs Monitoring System\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T20:45:48.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\appsettings.json",
               "RelativeDocumentMoniker": "IOT Integration For Vital Signs Monitoring System\\appsettings.json",

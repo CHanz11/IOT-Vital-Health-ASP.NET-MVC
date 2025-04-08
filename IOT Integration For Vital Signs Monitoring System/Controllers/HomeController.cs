@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using IOT_Integration_For_Vital_Signs_Monitoring_System.Models;
 using System;
 using IOT_Integration_For_Vital_Signs_Monitoring_System.Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace IOT_Integration_For_Vital_Signs_Monitoring_System.Controllers;
 public class HomeController : Controller
@@ -15,6 +16,7 @@ public class HomeController : Controller
     }
 
     //LIST: Display all records
+    [Authorize]
     public IActionResult Index()
     {
         var patient = _context.Patient
@@ -24,12 +26,14 @@ public class HomeController : Controller
     }
 
     // CREATE: Display form
+    [Authorize]
     public IActionResult Create()
     {
         return View();
     }
 
     // CREATE: Save new record
+    [Authorize]
     [HttpPost]
     public async Task<IActionResult> Create(Patients patient, IFormFile? ProfileImage)
     {
@@ -61,6 +65,7 @@ public class HomeController : Controller
     }
 
     // EDIT: Display existing record in form
+    [Authorize]
     public IActionResult Edit(int id)
     {
         var patient = _context.Patient.Find(id);
@@ -72,6 +77,7 @@ public class HomeController : Controller
     }
 
     // EDIT: Save updated record
+    [Authorize]
     [HttpPost]
     public async Task<IActionResult> Edit(Patients patient, IFormFile? ProfileImage)
     {
@@ -124,6 +130,7 @@ public class HomeController : Controller
 
 
     // DELETE: Confirm delete
+    [Authorize]
     public IActionResult Delete(int id)
     {
         var patient = _context.Patient.Find(id);
@@ -135,6 +142,7 @@ public class HomeController : Controller
     }
 
     // DELETE: Remove from database
+    [Authorize]
     [HttpPost, ActionName("Delete")]
     public IActionResult DeleteConfirmed(int id)
     {
@@ -153,6 +161,7 @@ public class HomeController : Controller
     }
 
     //DETAILS: Display patient details and vital datas
+    [Authorize]
     public IActionResult Details(int id)
     {
         var patient = _context.Patient.Find(id);
@@ -172,6 +181,7 @@ public class HomeController : Controller
     }
 
     // AddData: Display existing record in form
+    [Authorize]
     public IActionResult AddData(int id)
     {
         var patient = _context.Patient.Find(id);
@@ -183,6 +193,7 @@ public class HomeController : Controller
     }
 
     // AddData: Save updated record
+    [Authorize]
     [HttpPost]
     public async Task<IActionResult> AddData(Patients patient, Records record, IFormFile? ProfileImage)
     {

@@ -1,40 +1,37 @@
 ﻿@model IOT_Integration_For_Vital_Signs_Monitoring_System.Models.Patients
 
+<div class="form-container">
+    <h2>Add Patients Vital Data</h2>
+    <a href="/Home" class="back-btn">← Back to List</a>
 
-<h2>Add Patients Vital Data</h2>
+    <form asp-action="AddData" method="post" class="custom-form">
+        <input type="hidden" asp-for="Name" />
+        <input type="hidden" asp-for="LastName" />
+        <input type="hidden" asp-for="Gender" />
+        <input type="hidden" asp-for="Birthdate" />
+        <input type="hidden" asp-for="Address" />
+        <input type="hidden" name="ProfileImage" accept="image/*" />
 
-<form asp-action="AddData" method="post">
-    <input type="hidden" asp-for="Name" />
-    <input type="hidden" asp-for="LastName" />
-    <input type="hidden" asp-for="Gender" />
-    <input type="hidden" asp-for="Birthdate" />
-    <input type="hidden" asp-for="Address" />
-    <input type="hidden" name="ProfileImage" accept="image/*" />
+        <!-- Add Vital Data -->
+        <label>Weight:</label>
+        <input type="number" asp-for="Weight" /> Kg.
 
-    <!-- Add Vital Data -->
-    <label>Weight:</label>
-    <input type="number" asp-for="Weight" /> Kg.
-    <br />
+        <label>Height:</label>
+        <input type="number" asp-for="Height" /> cm.
 
-    <label>Height:</label>
-    <input type="number" asp-for="Height" /> cm.
-    <br />
+        <label>Temperature:</label>
+        <input type="number" asp-for="Temperature" /> °C
 
-    <label>Temperature:</label>
-    <input type="number" asp-for="Temperature" /> °C
-    <br />
+        <label>Systolic:</label>
+        <input type="number" asp-for="Systolic" /> <br />
+        <span asp-validation-for="Systolic" class="error-message"></span>
 
-    <label>Systolic:</label>
-    <input type="number" asp-for="Systolic" /> <br />
-    <span asp-validation-for="Systolic" style="color: red;"></span>
+        <label>Diastolic:</label>
+        <input type="number" asp-for="Diastolic" />
+        <span asp-validation-for="Diastolic" class="error-message"></span>
 
-    <label>Diastolic:</label>
-    <input type="number" asp-for="Diastolic" />
-    <span asp-validation-for="Diastolic" style="color: red;"></span>
+        <input type="hidden" asp-for="ProfileImagePath" />
 
-    <input type="hidden" asp-for="ProfileImagePath" />
-
-    <button type="submit" class="btn edit">Save Changes</button>
-</form>
-
-<a href="/Home">Back to List</a>
+        <button type="submit" class="action-btn submit">Save Changes</button>
+    </form>
+</div>

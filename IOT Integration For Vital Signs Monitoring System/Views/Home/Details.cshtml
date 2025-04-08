@@ -1,71 +1,46 @@
 ﻿@model IOT_Integration_For_Vital_Signs_Monitoring_System.Models.Patients
 
-<div class="container">
-    <h2>PATIENT RECORD</h2>
+<div class="patient-card-container">
+    <h2 class="patient-card-title">Patient Record</h2>
 
+    <div class="patient-card-box">
+        <!-- Top Section -->
+        <div class="patient-card-header">
+            <img src="@Url.Content(Model.ProfileImagePath != null ? "~/images/profiles/" + Model.ProfileImagePath : "~/images/profiles/default.png")"
+                 alt="Profile Image" class="patient-card-img" />
 
-    <div class="grey-box">
-
-
-        <div class="row">
-
-            <div class="column">
-                @if (!string.IsNullOrEmpty(Model.ProfileImagePath))
-                {
-                    <div>
-                        <img src="@Url.Content("~/images/profiles/" + Model.ProfileImagePath)" alt="Profile Image" width="100" height="100" />
-                    </div>
-                }
-                else
-                {
-                    <div>
-                        <img src="@Url.Content("~/images/profiles/default.png")" alt="Profile Image" width="100" height="100" />
-                    </div>
-                }
-            </div>
-            <div class="column">
-               <strong>Name: @Model.Name @Model.LastName</strong>
-            </div>
-            <div class="column">
-               <strong>Gender:</strong> @Model.Gender
-             </div>
-            <div class="column">
-                    <strong>Birthday:</strong> @Model.Birthdate.ToString("MMMM dd, yyyy")
+            <div class="patient-card-basic">
+                <div><strong>Name:</strong> @Model.Name @Model.LastName</div>
+                <div><strong>Gender:</strong> @Model.Gender</div>
+                <div><strong>Birthday:</strong> @Model.Birthdate.ToString("MMMM dd, yyyy")</div>
+                <div><strong>ID:</strong> @Model.Id</div>
+                <div><strong>Address:</strong> @Model.Address</div>
             </div>
         </div>
-        <div class="row">
-            <div class="column">
-                <strong>ID Number: @Model.Id</strong>
-             </div>
-            <div class="column">
-                <strong>Address: @Model.Address</strong>
-            </div>
-         </div>
-         <div class="row">
-            <div class="column">
-                <strong>Weight:</strong> @Model.Weight
-            </div>
-            <div class="column">
-                <strong>Height:</strong> @Model.Height
-            </div>
-            <div class="column">
-                <strong>Temperature:</strong> @Model.Temperature °C
-            </div>
-            <div class="column">
-                <strong>Blood Pressure:</strong> @Model.BloodPressure
-            </div>
-            <div class="column">
-                    <strong>BMI:</strong> @Model.BMI
-            </div>
-         </div>
+
+        <!-- Divider -->
+        <div class="patient-card-divider"></div>
+
+        <!-- Vitals Section -->
+        <div class="patient-card-vitals">
+            <div class="vital"><span>Weight:</span> @Model.Weight</div>
+            <div class="vital"><span>Height:</span> @Model.Height</div>
+            <div class="vital"><span>Temp:</span> @Model.Temperature °C</div>
+            <div class="vital"><span>BP:</span> @Model.BloodPressure</div>
+            <div class="vital"><span>BMI:</span> @Model.BMI</div>
+        </div>
     </div>
 
-    <a asp-action="AddData" asp-route-id="@Model.Id" class="btn btn-warning btn-sm">Add Vital Data</a>
-
+    <a asp-action="AddData" asp-route-id="@Model.Id" class="patient-card-btn">➕ Add Vital Data</a>
 </div>
-    
-<h3 class="mt-4">Vital Records</h3>
-<table class="table table-striped">
+
+
+
+
+
+<h3 style="text-align:center; margin-top: 2rem;">Vital Records</h3>
+
+<table class="modern-table">
     <thead>
         <tr>
             <th>Date</th>

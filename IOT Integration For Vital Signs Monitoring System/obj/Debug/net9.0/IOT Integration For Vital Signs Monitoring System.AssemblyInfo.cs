@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOT Integration For Vital Signs Monitoring System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9917a23d22b99c496db8a38871b63c4314f6d60a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12e8a5fe341f2520408c693daf32a0bdf351e2c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOT Integration For Vital Signs Monitoring System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOT Integration For Vital Signs Monitoring System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
