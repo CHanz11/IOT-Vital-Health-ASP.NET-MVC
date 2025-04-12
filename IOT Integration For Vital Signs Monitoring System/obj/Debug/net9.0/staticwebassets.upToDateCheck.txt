@@ -64,6 +64,7 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\profiles\85e67248-0f2d-4a5a-88c3-24b79b908324.jpg
 wwwroot\images\profiles\default.png
+wwwroot\images\profiles\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

@@ -244,7 +244,7 @@ public class HomeController : Controller
             _context.Record.Add(record);
 
             await _context.SaveChangesAsync();
-            return RedirectToAction("Index");
+            return RedirectToAction("Details", new { id = patient.Id });
         }
 
         return View(patient);

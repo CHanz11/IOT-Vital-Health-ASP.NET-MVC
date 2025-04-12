@@ -2,7 +2,7 @@
 
 <div class="form-container">
     <h2>Add Patients Vital Data</h2>
-    <a href="/Home" class="back-btn">← Back to List</a>
+    <a href="javascript:history.back()" class="back-btn">← Back</a>
 
     <form asp-action="AddData" method="post" class="custom-form">
         <input type="hidden" asp-for="Name" />

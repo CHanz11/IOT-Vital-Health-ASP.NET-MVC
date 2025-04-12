@@ -1,16 +1,15 @@
 ﻿@model IOT_Integration_For_Vital_Signs_Monitoring_System.Models.Patients
 
 <div class="form-container">
-    <h2>Delete Student Data</h2>
+    <h2>Delete Patient Data</h2>
 
     <p>Are you sure you want to delete <strong>@Model.Name @Model.LastName</strong>?</p>
 
     <form asp-action="Delete" method="post" class="custom-form">
         <input type="hidden" asp-for="Id" />
-
-        <div class="action-buttons">
-            <button type="submit" class="action-btn delete">Yes</button>
-            <a href="/Home" class="action-btn cancel">Cancel</a>
+        <div class="confirm-buttons-container">
+            <button type="submit" class="confirm-btn confirm-delete">✅ Yes</button>
+            <a href="/Home" class="confirm-btn confirm-cancel">← Cancel</a>
         </div>
     </form>
 </div>

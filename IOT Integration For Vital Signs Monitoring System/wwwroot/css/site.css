@@ -6,6 +6,49 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* Navbar Styles */
+.custom-navbar {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    padding: 1rem 2rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-navbar-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.custom-navbar-brand {
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.custom-navbar-links {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.custom-navbar-link {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.custom-navbar-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+
 /* Shared container styling (Login and Register) */
 .login-container,
 .register-container {
@@ -242,7 +285,7 @@ input[type="number"]:focus{
 
 .form-container {
     max-width: 600px;
-    margin: 0 auto;
+    margin: 30px auto;
     padding: 2rem;
     background-color: #f8f9fb;
     border-radius: 12px;
@@ -393,25 +436,38 @@ input[type="number"]:focus{
 /*Logout Styles*/
 
 .logout-container {
-    max-width: 600px;
+    max-width: 500px;
     margin: 3rem auto;
-    padding: 2rem;
+    padding: 2.5rem;
     background: linear-gradient(to bottom right, #ffffff, #f0f4f8);
     border-radius: 12px;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .logout-title {
     font-size: 2rem;
     color: #005792;
+    margin-bottom: 1rem;
+}
+
+.logout-message {
+    font-size: 1.1rem;
+    color: #333;
+    padding: 0.75rem 1.2rem;
+    background-color: #e0f7e9;
+    border: 1px solid #b2e0c7;
+    border-radius: 8px;
+    display: inline-block;
     margin-bottom: 1.5rem;
 }
 
 .logout-form {
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
 }
 
 .logout-button {
@@ -430,13 +486,216 @@ input[type="number"]:focus{
         background-color: #c92a37;
     }
 
-.logout-message {
-    font-size: 1.1rem;
-    color: #333;
-    padding: 1rem;
-    background-color: #e0f7e9;
-    border: 1px solid #b2e0c7;
-    border-radius: 8px;
-    display: inline-block;
+.cancel-link {
+    font-size: 1rem;
+    color: #555;
+    text-decoration: none;
+    transition: color 0.3s ease;
 }
 
+    .cancel-link:hover {
+        color: #333;
+        text-decoration: underline;
+    }
+
+/*Delete Styles*/
+
+.confirm-buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.confirm-btn {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    min-width: 100px;
+}
+
+/* Yes Button */
+.confirm-delete {
+    background-color: #e63946;
+    color: #fff;
+    border: none;
+}
+
+    .confirm-delete:hover {
+        background-color: #c82333;
+    }
+
+/* Cancel Button */
+.confirm-cancel {
+    background-color: #f0f0f0;
+    color: #555;
+    border: 1px solid #ccc;
+}
+
+    .confirm-cancel:hover {
+        background-color: #e2e2e2;
+        color: #222;
+        border-color: #aaa;
+    }
+
+/* Custom Footer Styles */
+.custom-footer {
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: #f0f0f0;
+    padding: 1.5rem 0;
+    text-align: center;
+    font-size: 0.95rem;
+    margin-top: 3rem;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-footer-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    line-height: 1.6;
+}
+
+
+
+/* Responsive (Mobile) */
+@media (max-width: 768px) {
+    .custom-navbar-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .custom-navbar-links {
+        flex-direction: column;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .custom-navbar-link {
+        width: 100%;
+        padding: 0.5rem 0;
+    }
+}
+
+
+
+/* Responsive Styles for Mobile View */
+@media (max-width: 768px) {
+
+    /* Navbar */
+    .custom-navbar-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .custom-navbar-links {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .custom-navbar-link {
+        padding: 0.6rem 0;
+        width: 100%;
+    }
+
+    /* Login/Register Containers */
+    .login-container,
+    .register-container {
+        margin: 2rem 1rem;
+        padding: 1.5rem;
+    }
+
+    /* Tables */
+    .modern-table thead {
+        display: none;
+    }
+
+    .modern-table,
+    .modern-table tbody,
+    .modern-table tr,
+    .modern-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .modern-table tr {
+        margin-bottom: 1rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+        border-radius: 6px;
+        overflow: hidden;
+    }
+
+    .modern-table td {
+        padding: 0.75rem 1rem;
+        text-align: right;
+        position: relative;
+    }
+
+    .modern-table td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 1rem;
+        font-weight: bold;
+        text-align: left;
+        color: #333;
+    }
+
+    /* Patient Card Layout */
+    .patient-card-header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .patient-card-img {
+        width: 90px;
+        height: 90px;
+    }
+
+    /* Grid vitals */
+    .patient-card-vitals {
+        grid-template-columns: 1fr;
+    }
+
+    /* Form Container */
+    .form-container {
+        margin: 1rem;
+        padding: 1.5rem;
+    }
+
+    /* Flexbox Forms */
+    .flex-row {
+        flex-direction: column;
+        gap: 0.8rem;
+    }
+
+    /* Action buttons stack */
+    .action-buttons {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    /* Logout Container */
+    .logout-container {
+        margin: 2rem 1rem;
+        padding: 2rem 1rem;
+    }
+
+    .logout-form {
+        flex-direction: column;
+        gap: 0.8rem;
+    }
+
+    /* Confirm buttons */
+    .confirm-buttons-container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

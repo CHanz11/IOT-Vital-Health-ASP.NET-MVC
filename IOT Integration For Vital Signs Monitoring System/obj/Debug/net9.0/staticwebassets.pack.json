@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\profiles\\default.png"
     },
     {
+      "Id": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\images\\profiles\\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg"
+    },
+    {
       "Id": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

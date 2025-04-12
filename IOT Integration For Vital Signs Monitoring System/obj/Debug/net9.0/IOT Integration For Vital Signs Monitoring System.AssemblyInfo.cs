@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOT Integration For Vital Signs Monitoring System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12e8a5fe341f2520408c693daf32a0bdf351e2c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a7bd160b028e4d158b384e377cc32076da2601")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOT Integration For Vital Signs Monitoring System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOT Integration For Vital Signs Monitoring System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

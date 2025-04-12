@@ -2,7 +2,7 @@
 
 <div class="form-container">
     <h2>Edit Patients Data</h2>
-    <a href="/Home" class="back-btn">← Back to List</a>
+    <a href="javascript:history.back()" class="back-btn">← Back</a>
 
     <form asp-action="Edit" method="post" enctype="multipart/form-data" class="custom-form">
         <input type="hidden" asp-for="Id" />

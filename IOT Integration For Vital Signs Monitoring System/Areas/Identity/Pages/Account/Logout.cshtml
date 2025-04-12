@@ -6,18 +6,22 @@
 
 <header>
     <div class="logout-container">
-        <h1 class="logout-title">@ViewData["Title"]</h1>
-
         @if (User.Identity?.IsAuthenticated ?? false)
         {
-            <form class="logout-form" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
-                <button type="submit" class="logout-button">🔒 Click here to Logout</button>
-            </form>
+            <div class="logout-container">
+                <h2 class="logout-title">Logout</h2>
+                <p class="logout-message">Are you sure you want to logout?</p>
+
+                <form class="logout-form" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                    <button type="submit" class="logout-button">🔒 Yes, Logout</button>
+                    <a href="javascript:history.back()" class="cancel-link">← Cancel</a>
+                </form>
+            </div>
+
         }
         else
         {
             <p class="logout-message">✅ You have successfully logged out of the application.</p>
         }
     </div>
-
 </header>

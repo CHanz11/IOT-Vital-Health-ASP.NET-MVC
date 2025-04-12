@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HhEBLHavRmIC6D2nZydfIKbgHfnePRoRV7Tye0iCt+Y=",
+  "Hash": "Z1F9aPDHC3ngqZeQBEEauKfngc9x/nKY+QEEq0FLvWI=",
   "Source": "IOT Integration For Vital Signs Monitoring System",
   "BasePath": "_content/IOT Integration For Vital Signs Monitoring System",
   "Mode": "Default",
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-rdf542d391.gz",
+      "Identity": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-qpht0urlgn.gz",
       "SourceId": "IOT Integration For Vital Signs Monitoring System",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/IOT Integration For Vital Signs Monitoring System",
-      "RelativePath": "css/site#[.{fingerprint=rdf542d391}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=qpht0urlgn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e22t4n3uuz",
-      "Integrity": "SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco=",
+      "Fingerprint": "o0o28yrx06",
+      "Integrity": "GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css"
@@ -2719,8 +2719,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rdf542d391",
-      "Integrity": "4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8=",
+      "Fingerprint": "qpht0urlgn",
+      "Integrity": "7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2787,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\profiles\\default.png"
+    },
+    {
+      "Identity": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\images\\profiles\\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg",
+      "SourceId": "IOT Integration For Vital Signs Monitoring System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\",
+      "BasePath": "_content/IOT Integration For Vital Signs Monitoring System",
+      "RelativePath": "images/profiles/fe7864fa-f9f7-40ed-8815-94aa0475804f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "irtqcgdmgk",
+      "Integrity": "0spBWEhKre223zRhacph3/dOCC5Ki2p8nB1C1G5zMIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profiles\\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg"
     },
     {
       "Identity": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\js\\site.js",
@@ -5396,12 +5417,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-rdf542d391.gz",
+      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-qpht0urlgn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000467945718"
+          "Quality": "0.000330797221"
         }
       ],
       "ResponseHeaders": [
@@ -5411,15 +5432,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2136"
+          "Value": "3022"
         },
         {
           "Name": "ETag",
-          "Value": "\"SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco=\""
+          "Value": "\"GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 23:27:21 GMT"
+          "Value": "Sat, 12 Apr 2025 03:38:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5439,13 +5460,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8=\""
+          "Value": "W/\"7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8="
+          "Value": "sha256-7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s="
         }
       ]
     },
@@ -5460,7 +5481,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8681"
+          "Value": "13831"
         },
         {
           "Name": "Content-Type",
@@ -5468,11 +5489,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8=\""
+          "Value": "\"7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 23:27:21 GMT"
+          "Value": "Sat, 12 Apr 2025 03:38:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5482,7 +5503,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8="
+          "Value": "sha256-7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s="
         }
       ]
     },
@@ -5525,7 +5546,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-rdf542d391.gz",
+      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-qpht0urlgn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5534,7 +5555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2136"
+          "Value": "3022"
         },
         {
           "Name": "Content-Type",
@@ -5542,11 +5563,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco=\""
+          "Value": "\"GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 23:27:21 GMT"
+          "Value": "Sat, 12 Apr 2025 03:38:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5564,18 +5585,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco="
+          "Value": "sha256-GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U="
         }
       ]
     },
     {
-      "Route": "css/site.rdf542d391.css",
-      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-rdf542d391.gz",
+      "Route": "css/site.qpht0urlgn.css",
+      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-qpht0urlgn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000467945718"
+          "Quality": "0.000330797221"
         }
       ],
       "ResponseHeaders": [
@@ -5585,15 +5606,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2136"
+          "Value": "3022"
         },
         {
           "Name": "ETag",
-          "Value": "\"SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco=\""
+          "Value": "\"GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 23:27:21 GMT"
+          "Value": "Sat, 12 Apr 2025 03:38:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5613,13 +5634,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8=\""
+          "Value": "W/\"7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rdf542d391"
+          "Value": "qpht0urlgn"
         },
         {
           "Name": "label",
@@ -5627,12 +5648,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8="
+          "Value": "sha256-7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s="
         }
       ]
     },
     {
-      "Route": "css/site.rdf542d391.css",
+      "Route": "css/site.qpht0urlgn.css",
       "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5642,7 +5663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8681"
+          "Value": "13831"
         },
         {
           "Name": "Content-Type",
@@ -5650,11 +5671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8=\""
+          "Value": "\"7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 23:27:21 GMT"
+          "Value": "Sat, 12 Apr 2025 03:38:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5664,7 +5685,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rdf542d391"
+          "Value": "qpht0urlgn"
         },
         {
           "Name": "label",
@@ -5672,13 +5693,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4ca08Mbgh7r1prDrvJRgVMh0/xW+rDRBohStJoTBRK8="
+          "Value": "sha256-7ibCr60g7jZIk/PcHI3OaiYsf9eiTPmoY1DETQ6ob5s="
         }
       ]
     },
     {
-      "Route": "css/site.rdf542d391.css.gz",
-      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-rdf542d391.gz",
+      "Route": "css/site.qpht0urlgn.css.gz",
+      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\obj\\Debug\\net9.0\\compressed\\gp00yt0opr-qpht0urlgn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5687,7 +5708,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2136"
+          "Value": "3022"
         },
         {
           "Name": "Content-Type",
@@ -5695,11 +5716,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco=\""
+          "Value": "\"GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 23:27:21 GMT"
+          "Value": "Sat, 12 Apr 2025 03:38:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5717,7 +5738,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rdf542d391"
+          "Value": "qpht0urlgn"
         },
         {
           "Name": "label",
@@ -5725,7 +5746,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SmD9gDZpd93+liih/wzbUO/b0WzY1FTcvOobFfbKzco="
+          "Value": "sha256-GKadVsDLfV0oH6rxjCyL/m2CQnCh2PET0J2Lhvusq+U="
         }
       ]
     },
@@ -14756,6 +14777,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-khYpUTGF4TVYeqp0UBGvEwsBXd2BoY/tTQ0bHrVzv4U="
+        }
+      ]
+    },
+    {
+      "Route": "images/profiles/fe7864fa-f9f7-40ed-8815-94aa0475804f.irtqcgdmgk.jpg",
+      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\images\\profiles\\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1004958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0spBWEhKre223zRhacph3/dOCC5Ki2p8nB1C1G5zMIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "irtqcgdmgk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/profiles/fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0spBWEhKre223zRhacph3/dOCC5Ki2p8nB1C1G5zMIQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/profiles/fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg",
+      "AssetFile": "C:\\CODES\\ASP.NET\\IOT Integration For Vital Signs Monitoring System\\IOT Integration For Vital Signs Monitoring System\\wwwroot\\images\\profiles\\fe7864fa-f9f7-40ed-8815-94aa0475804f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1004958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0spBWEhKre223zRhacph3/dOCC5Ki2p8nB1C1G5zMIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0spBWEhKre223zRhacph3/dOCC5Ki2p8nB1C1G5zMIQ="
         }
       ]
     },
