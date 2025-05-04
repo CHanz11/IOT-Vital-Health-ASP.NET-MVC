@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>IOT_Integration_For_Vital_Signs_Monitoring_System</RootNamespace>
+    <RootNamespace>IOT-Integration-VitalSigns</RootNamespace>
     <UserSecretsId>7fdfe060-45ad-49b9-b40b-7be43266c599</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
   </PropertyGroup>

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOT Integration For Vital Signs Monitoring System", "IOT Integration For Vital Signs Monitoring System\IOT Integration For Vital Signs Monitoring System.csproj", "{029BD711-C507-4471-8C53-3CF11302AE92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOT-Integration-VitalSigns", "IOT Integration For Vital Signs Monitoring System\IOT-Integration-VitalSigns.csproj", "{029BD711-C507-4471-8C53-3CF11302AE92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
