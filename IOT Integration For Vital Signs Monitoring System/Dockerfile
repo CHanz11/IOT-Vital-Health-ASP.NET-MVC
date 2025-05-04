@@ -29,4 +29,4 @@ RUN dotnet publish "./IOT Integration For Vital Signs Monitoring System.csproj" 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "IOT Integration For Vital Signs Monitoring System.dll"]
+ENTRYPOINT ["dotnet", "IOT-Integration-VitalSigns.dll"]
